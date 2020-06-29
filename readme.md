@@ -55,5 +55,5 @@ FlappyBird
 项目维护者信息
 ----------
 
-李海鹏：ariharasuzune009@gmail.com
+Ari：ariharasuzune009@gmail.com
 
