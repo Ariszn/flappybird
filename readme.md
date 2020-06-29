@@ -52,7 +52,7 @@ FlappyBird
   该项目参考以上项目开发，对原作者表达感谢与敬意。
 
 
-项目维护者信息
+维护者
 ----------
 
 Ari：ariharasuzune009@gmail.com
